@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TodoApp</string>
+    <string name="task_title">Task Title</string>
+    <string name="enter_task_title">Enter Task Title</string>
+    <string name="what_is_to_be_done">What is to be done ?</string>
+    <string name="enter_your_task">Enter your Task</string>
+    <string name="set_reminder_date_and_time">Set reminder date and time</string>
+    <string name="set_date">Set Date</string>
+    <string name="save_task">Save Task</string>
+</resources>
